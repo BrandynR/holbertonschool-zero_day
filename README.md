@@ -1,12 +1,7 @@
-
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
 # holbertonschool-zero_day
 
-*// Markdown Page //*
-Read me file for Day Zero Project
+README for holberton-zero_day
+This contains a little bit of everything.
+Emacs, vi, commands can be founf in this repository.
+
 
